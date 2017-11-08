@@ -1,0 +1,114 @@
+[
+{"opcion":
+    {"id":"1","descripcion":"Todas las tarjetas","url":"1",
+        "tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}
+    },"orden":1,"visible":true
+},
+{"opcion":
+    {
+        "id":"12","descripcion":"Todas las tarjetas","url":"1","tipoOpcion":
+        {"id":"3","descripcion":"Tarjeta Aportante"}
+    },
+    "orden":11,"visible":true
+},
+{
+    "opcion":
+        {"id":"23",
+         "descripcion":"Activar",
+         "url":" ",
+         "tipoOpcion":{"id":"4","descripcion":"Operaciones"}
+        },
+    "orden":23,"visible":true
+},
+{
+    "opcion":
+        {"id":"30","descripcion":"Acuerdo","url":" ","tipoOpcion":{"id":"4","descripcion":"Operaciones"}},
+    "orden":30,"visible":true
+},
+{
+    "opcion":
+        {"id":"14","descripcion":"Autorizaciones","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},
+    "orden":13,"visible":true },
+{
+    "opcion":
+        {"id":"32","descripcion":"Cambio","url":" ","tipoOpcion":{"id":"4","descripcion":"Operaciones"}},
+    "orden":32,"visible":true},
+{
+    "opcion":
+    {"id":"28","descripcion":"Certificado","url":" ","tipoOpcion":
+    {"id":"4","descripcion":"Operaciones"}},"orden":28,"visible":true },
+
+    {"opcion":{"id":"19","descripcion":"Copagos y/o Cuotas Moderadoras","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":19,"visible":true},
+    {"opcion":{"id":"16","descripcion":"CTC","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":15,"visible":true},
+    {"opcion":{"id":"27","descripcion":"Formulario","url":" ","tipoOpcion":{"id":"4","descripcion":"Operaciones"}},"orden":27,"visible":true},
+    {"opcion":{"id":"4","descripcion":"Glosas","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":3,"visible":true},
+    {"opcion":{"id":"13","descripcion":"Glosas","url":"1","tipoOpcion":{"id":"3","descripcion":"Tarjeta Aportante"}},"orden":12,"visible":true},
+    {"opcion":{"id":"3","descripcion":"Grupo Familiar","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":2,"visible":true},
+    {"opcion":{"id":"5","descripcion":"Historial","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":4,"visible":true},
+    {"opcion":{"id":"25","descripcion":"Historico","url":" ","tipoOpcion":{"id":"4","descripcion":"Operaciones"}},"orden":25,"visible":true},
+    {"opcion":{"id":"6","descripcion":"Ingresos por UPC","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":5,"visible":true},
+    {"opcion":{"id":"24","descripcion":"Modificar","url":" ","tipoOpcion":{"id":"4","descripcion":"Operaciones"}},"orden":24,"visible":true},
+    {"opcion":{"id":"21","descripcion":"Movilidad","url":" ","tipoOpcion":{"id":"4","descripcion":"Operaciones"}},"orden":21,"visible":true},
+    {"opcion":{"id":"7","descripcion":"Novedades","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":6,"visible":true},
+    {"opcion":{"id":"22","descripcion":"Novedades","url":" ","tipoOpcion":{"id":"4","descripcion":"Operaciones"}},"orden":22,"visible":true},
+    {"opcion":{"id":"33","descripcion":"Nuevo","url":" ","tipoOpcion":{"id":"4","descripcion":"Operaciones"}},"orden":33,"visible":true},
+    {"opcion":{"id":"8","descripcion":"Portabilidad","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":7,"visible":true},
+    {"opcion":{"id":"18","descripcion":"Programas Especiales","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":18,"visible":true},
+    {"opcion":{"id":"9","descripcion":"Recaudos","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":8,"visible":true},
+    {"opcion":{"id":"2","descripcion":"Red Prestadora","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":1,"visible":true},
+    {"opcion":{"id":"10","descripcion":"Relaciones Laborales","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":9,"visible":true},
+    {"opcion":{"id":"15","descripcion":"Siniestros","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":14,"visible":true},
+    {"opcion":{"id":"20","descripcion":"Solicitudes y Respuestas","url":" ","tipoOpcion":{"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":20,"visible":true},
+    {"opcion":{"id":"29","descripcion":"Soportes","url":" ","tipoOpcion":{"id":"4","descripcion":"Operaciones"}},"orden":29,"visible":true},
+    {"opcion":{"id":"31","descripcion":"Tramite","url":" ","tipoOpcion":{"id":"4","descripcion":"Operaciones"}},"orden":31,"visible":true},
+    {"opcion":{"id":"26","descripcion":"Traslado","url":" ","tipoOpcion":{"id":"4","descripcion":"Operaciones"}},"orden":26,"visible":true},
+    {"opcion":{"id":"17","descripcion":"Tutelas","url":" ","tipoOpcion": {"id":"2","descripcion":"Tarjeta Afiliados"}},"orden":16,"visible":true}]
+
+
+
+    {
+    "documento":{"tipo":"CC","numero":"1143325417"},
+    "operacion":"1",
+    "isReportableMobility":null,
+    "fechaExpedicionDocumento":"2006-11-06T05:00:00.000Z",
+    "idMunicipio":"",
+    "idDepartamento":"",
+    "correo":"",
+    "datosBDUA":{"tipoTraslado":null,"documento":{"numero":null,"tipo":null}},
+    "laboralData":{"gestor":{"documento":{"numero":null,"tipo":{"description":null,"id":null,"name":null}},
+    "nombre":{"primerApellido":null,"primerNombre":null,"segundoApellido":null,"segundoNombre":null},"id":null},
+    "aportante":{"id":null},"selectedType":{"id":null,"description":null,"name":null},"tipoAfiliacion":null,
+    "selectedContributorType":{"id":null,"description":null,"name":null},
+    "selectedContributorSubType":{"id":null,"description":null,"name":null},
+    "baseEntry":null,
+    "fechaIngreso":null,
+    "selectedDepartamento":{"id":null},
+    "selectedMunicipio":{"id":null},
+    "direccion":null,
+    "telefonoFijo":null,
+    "email":null,
+    "afp":{"etevEntidad":null,"tercNombre":null},
+    "arl":{"arpcCodigo":null,"arpcNombre":null}},
+    "additionalData":{"discapacidad":{"description":false,"condicion":{"id":null,"description":null,"name":null},
+    "porcentaje":null,
+    "tipo":{"id":null,"description":null,"name":null}},
+    "estudiante":false,
+    "etnia":{"id":null,"description":null},
+    "grupoPoblacion":{"id":null,"description":null},
+    "sisben":{"ficha":null,"nivel":{"id":null,"name":null},
+    "metodologia":{"id":null,"name":null},
+    "puntaje":null}},
+    "respuestasDeclaraciones":null,
+    "respuestasCartaDerechos":null,
+    "actoAdministrativo":false,
+    "fechaNacimiento":"1987-10-03T05:00:00.000Z",
+    "fechaRadicacion":"2017-11-08T05:00:00.000Z",
+    "fechaAfiliacion":"2017-11-07T05:00:00.000Z",
+    "primerApellido":"CAUSIL",
+    "segundoApellido":"hernandez",
+    "primerNombre":"LUIS",
+    "segundoNombre":"miguel",
+    "genero":"M",
+    "afiliadoSolicitud":{"tipo":{"id":"F"},
+    "cabezaDeFamilia":{"documento":{"tipo":{}}},
+    "parentesco":{}}}
